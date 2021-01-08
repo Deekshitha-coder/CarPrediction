@@ -27,7 +27,7 @@ requests==2.25.1
 scikit-learn==0.24.0
 scipy
 seaborn 
-sip==4.19.13
+#sip==4.19.13
 #six @ file:///C:/ci/six_1605187374963/work
 sklearn==0.0
 template==0.6.2
