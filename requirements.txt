@@ -34,7 +34,7 @@ template==0.6.2
 threadpoolctl==2.1.0
 toml==0.10.2
 #tornado @ file:///C:/ci/tornado_1606942392901/work
-urllib3==1.26.2
+urllib3==1.26.3
 Werkzeug==1.0.1
 wincertstore==0.2
 gunicorn
