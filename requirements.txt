@@ -7,7 +7,7 @@ idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.2
 jmespath==0.10.0
-joblib==1.0.0
+joblib==1.2.0
 jsonify==0.5
 #kiwisolver @ file:///C:/ci/kiwisolver_1604014703538/work
 MarkupSafe==1.1.1
